@@ -1,0 +1,21 @@
+h1 {
+  margin: 1em;
+  text-decoration: underline;
+}
+
+.poison-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.poison {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid red;
+  margin: 1em;
+  padding: 1em;
+}
